@@ -31,21 +31,27 @@ body {
        margin-right: 290px;
 }
 
+.box2 {
+    margin-top: 50px;
+}
+
 .bold-text {
-            font-family: 'Poppins' sans-serif;
+            font-family: 'Poppins' /*sans-serif*/;
             color: #fff;
-            padding: 15px;
+            font-size: 30px;
+            font-weight: 600;
 }
 
 .soft-text {
             font-family: 'Open Sans' sans-serif;
             font-weight: 400;
-            color: rgb(235, 235, 235);
-            padding: 10px;
+            color: rgba(235, 235, 235, 83%);
+            padding: 15px;
+            font-size: 15px;
 }  
 
 .btn {
-      width: 35%;
+      width: 38%;
       height: 10%;
       background-color: #fff;
       color: hsl(257, 40%, 49%);
@@ -70,7 +76,8 @@ body {
 }
 
 .fab:hover {
-              background-color: hsl(300, 69%, 71%);
+            color: hsl(300, 86%, 61%);
+              border: 1px solid hsl(300, 86%, 61%);
 }
 
 .fab {
