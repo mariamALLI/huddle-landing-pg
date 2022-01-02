@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mariamALLI/huddle-landing-pg.git)
-- Live Site URL: [Netlify](https://huddle-landingpg.netlify.app/)
+- Live Site URL: [Netlify](https://huddlesingle-landingpg.netlify.app/)
 
 ## My process
 
